@@ -35,7 +35,6 @@ A aplicação permite o gerenciamento de receitas e despesas através de uma int
 * Collections (`ArrayList`)
 * Tratamento de exceções
 * Exceções personalizadas
-* Manipulação de datas com `LocalDate`
 
 ### Arquitetura
 
@@ -48,7 +47,7 @@ model      -> entidades do sistema
 exceptions -> exceções personalizadas
 ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 src/
@@ -74,12 +73,12 @@ src/
 └── Main.java
 ```
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Java 17
 * Eclipse IDE
 
-##Objetivo
+## Objetivo
 
 Este projeto representa uma etapa inicial no aprendizado de Java.
 
@@ -92,7 +91,7 @@ O objetivo principal é consolidar conhecimentos em Programação Orientada a Ob
 * Interface gráfica
 * Frameworks Java
 
-##Status do Projeto
+## Status do Projeto
 
 Versão funcional concluída
 
