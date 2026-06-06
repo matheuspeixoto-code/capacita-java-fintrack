@@ -1,0 +1,10 @@
+
+/bin/
+/target/
+.project
+.classpath
+.settings/
+*.log
+*.class
+.DS_Store
+Thumbs.db
