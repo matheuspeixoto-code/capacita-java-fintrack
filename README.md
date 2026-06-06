@@ -2,13 +2,13 @@
 
 Sistema de controle financeiro desenvolvido em Java com foco na aplicação dos conceitos fundamentais de Programação Orientada a Objetos (POO).
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 O FinTrack foi criado como projeto de estudo para praticar conceitos essenciais da linguagem Java e servir como base para projetos mais avançados no futuro.
 
 A aplicação permite o gerenciamento de receitas e despesas através de uma interface de linha de comando (CLI), possibilitando o acompanhamento do saldo e a geração de resumos financeiros.
 
-##Funcionalidades
+## Funcionalidades
 
 * Adicionar receitas
 * Adicionar despesas
@@ -19,7 +19,7 @@ A aplicação permite o gerenciamento de receitas e despesas através de uma int
 * Calcular saldo atual
 * Gerar resumo financeiro
 
-##Conceitos Aplicados
+## Conceitos Aplicados
 
 ### Programação Orientada a Objetos
 
